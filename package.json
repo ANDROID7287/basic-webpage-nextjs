@@ -7,9 +7,9 @@
     "node": ">=18"
   },
   "description": "A very simple example of a Linked Role bot for Discord.",
-  "main": "src/server.js",
+  "main": "./server.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
